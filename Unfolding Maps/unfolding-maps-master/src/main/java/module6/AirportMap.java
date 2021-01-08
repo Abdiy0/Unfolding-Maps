@@ -20,7 +20,6 @@ import java.util.stream.Collectors;
  *
  * @author Adam Setters
  * @author UC San Diego Intermediate Software Development MOOC team
- * @author Solange U. Gasengayire
  *
  */
 public class AirportMap extends PApplet {
