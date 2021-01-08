@@ -22,8 +22,7 @@ import java.util.List;
  * EarthquakeCityMap
  * An application with an interactive map displaying earthquake data.
  *
- * @author UC San Diego Intermediate Software Development MOOC team
- * @author Solange U. Gasengayire
+ * @author UC San Diego Intermediate Software Development MOOC tea
  *
  */
 public class EarthquakeCityMap extends PApplet {
