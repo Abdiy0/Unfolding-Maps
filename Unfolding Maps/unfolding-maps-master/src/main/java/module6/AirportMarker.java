@@ -10,11 +10,7 @@ import de.fhpotsdam.unfolding.marker.SimpleLinesMarker;
 import processing.core.PGraphics;
 
 /** 
- * A class to represent AirportMarkers on a world map.
- *   
- * @author Adam Setters
- * @author UC San Diego Intermediate Software Development MOOC team
- * @author Solange U. Gasengayire
+ 
  *
  */
 public class AirportMarker extends CommonMarker {
