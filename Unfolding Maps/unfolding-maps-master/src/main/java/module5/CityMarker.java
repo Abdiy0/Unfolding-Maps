@@ -11,8 +11,6 @@ import processing.core.PGraphics;
  * Implements a visual marker for cities on an earthquake map
  * 
  * @author UC San Diego Intermediate Software Development MOOC team
- * @author Solange U. Gasengayire
- *
  */
 
 // DONE: Change SimplePointMarker to CommonMarker as the very first thing you do in module 5.
