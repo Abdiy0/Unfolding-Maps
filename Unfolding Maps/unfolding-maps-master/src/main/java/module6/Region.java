@@ -3,8 +3,6 @@ package module6;
 /**
  * Class that represents a region on the world map.
  *
- * @author Solange U. Gasengayire
- *
  */
 public class Region {
 
