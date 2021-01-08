@@ -24,7 +24,6 @@ import java.util.List;
  * An application with an interactive map displaying earthquake data.
  *
  * @author UC San Diego Intermediate Software Development MOOC team
- * @author Solange U. Gasengayire
  *
  */
 public class EarthquakeCityMap extends PApplet {
